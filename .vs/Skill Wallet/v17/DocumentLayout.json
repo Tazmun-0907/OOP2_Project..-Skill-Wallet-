@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\7TH SEMESTER\\OOP2\\CODE\\Skill Wallet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D628C3A3-838D-4F26-A0EA-613E05BAD2DB}|Skill Wallet.csproj|f:\\7th semester\\oop2\\code\\skill wallet\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D628C3A3-838D-4F26-A0EA-613E05BAD2DB}|Skill Wallet.csproj|solutionrelative:form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form7.cs [Design]",
+              "DocumentMoniker": "F:\\7TH SEMESTER\\OOP2\\CODE\\Skill Wallet\\Form7.cs",
+              "RelativeDocumentMoniker": "Form7.cs",
+              "ToolTip": "F:\\7TH SEMESTER\\OOP2\\CODE\\Skill Wallet\\Form7.cs [Design]",
+              "RelativeToolTip": "Form7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T11:35:49.159Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
